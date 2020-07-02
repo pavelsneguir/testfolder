@@ -1,2 +1,2 @@
-# testfolder
-This is an example progect to demonstrate the use of git on Ubuntu.
+l# testfolder
+This is an example project to demonstrate the use of git on Ubuntu.
